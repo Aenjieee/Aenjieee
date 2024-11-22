@@ -46,7 +46,7 @@
   <div style="padding: 20px; background: #fafafa;">
     <!-- First Item with Animation -->
     <div class="hover-effect" style="display: flex; align-items: center; padding: 15px; border-bottom: 1px solid #e0e0e0; animation: slideIn 0.5s ease-out;">
-      <span style="font-size: 35px; color: #e67e22; margin-right: 15px; display: flex; align-items: center;">Ɑ͞ ̶͞ ̶͞ ̶͞ لں͞</span>
+      <span style="font-size: 35px; color: #e67e22; margin-right: 15px; display: flex; align-items: center;">🎨</span>
       <p style="font-size: 18px; font-weight: 600; color: #333; margin: 0;">Graphic Design: From logos to complete brand identities, I design visuals that communicate and inspire.</p>
     </div>
     <!-- Second Item with Animation -->
@@ -100,29 +100,31 @@
       </a>
     </p>
   </div>
-
  <div class="container fadeIn" style="margin-top: 10px;">
-  <!-- GitHub Stats with ReadMe Cards -->
-  <div class="container fadeIn" style="margin-top: 10px;">
-    <div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px;">
-      <!-- GitHub Stats -->
-      <a href="http://www.github.com/Aenjieee">
-        <img src="https://github-readme-stats.vercel.app/api?username=Aenjieee&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Aenjieee's GitHub stats" />
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aenjieee&layout=compact&langs_count=16&theme=dracula" alt="Aenjieee's GitHub top languages" />
-        </a>
-      <!-- GitHub Languages -->
-<!--       <a href="http://www.github.com/Aenjieee">
-        
-        </a> -->
-      <!-- GitHub Streak -->
-      <a href="http://www.github.com/Aenjieee">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aenjieee&theme=dracula&hide_border=true" alt="Aenjieee's GitHub streak" />
-        </a>
+   
+ <!-- GitHub Stats with ReadMe Cards -->
+<div class="container fadeIn" style="margin-top: 10px; display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
 
-    </div>
+  <!-- GitHub Stats and GitHub Streak (Side by Side) -->
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <!-- GitHub Stats -->
+    <a href="http://www.github.com/Aenjieee">
+      <img src="https://github-readme-stats.vercel.app/api?username=Aenjieee&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Aenjieee's GitHub stats" />
+    </a>
+    <!-- GitHub Streak -->
+    <a href="http://www.github.com/Aenjieee">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aenjieee&theme=dracula&hide_border=true" alt="Aenjieee's GitHub streak" />
+    </a>
   </div>
+
+  <!-- GitHub Languages (Centered) -->
+  <a href="http://www.github.com/Aenjieee">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aenjieee&layout=compact&langs_count=16&theme=dracula" alt="Aenjieee's GitHub top languages" />
+  </a>
+  
 </div>
 
 
+    
 </body>
 </html>
