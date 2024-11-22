@@ -118,13 +118,3 @@
       </a>
     </div>
   </div>
-
-  <!-- Tech Stack Section -->
-  <div class="container fadeIn" style="margin-top: 20px;">
-    <h3>🛠️ Tech Stack</h3>
-    <div class="tech-icons" align="center">
-      <a href="https://www.figma.com/"><img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" /></a>
-      <a href="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" /></a>
-      <a href="https://nextjs.org/"><img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" /></a>
-      <a href="https://wordpress.org/"><img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="WordPress" /></a>
-      <a href="https://developer.mozilla.org/en-US/docs
