@@ -100,29 +100,31 @@
       </a>
     </p>
   </div>
- <div class="container fadeIn" style="margin-top: 10px;">
-   
-<!-- GitHub Stats with ReadMe Cards -->
-<div class="container fadeIn" style="margin-top: 10px; display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
 
-  <!-- GitHub Stats (Separate) -->
-  <a href="http://www.github.com/Aenjieee">
-    <img src="https://github-readme-stats.vercel.app/api?username=Aenjieee&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Aenjieee's GitHub stats" />
-  </a>
-
-  <!-- GitHub Streak and GitHub Languages (Side by Side) -->
-  <div style="display: flex; justify-content: center; gap: 10px; align-items: stretch;">
-    <!-- GitHub Streak -->
-    <a href="http://www.github.com/Aenjieee">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aenjieee&theme=dracula&hide_border=true" alt="Aenjieee's GitHub streak" style="height: 180px; object-fit: cover;" />
-    </a>
-    <!-- GitHub Languages -->
-    <a href="http://www.github.com/Aenjieee">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aenjieee&layout=compact&langs_count=16&theme=dracula" alt="Aenjieee's GitHub top languages" style="height: 180px; object-fit: cover;" />
-    </a>
+  <!-- GitHub Stats with ReadMe Cards -->
+  <div class="container fadeIn" style="margin-top: 20px;">
+    <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+      <!-- GitHub Stats -->
+      <a href="http://www.github.com/Aenjieee">
+        <img src="https://github-readme-stats.vercel.app/api?username=Aenjieee&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Aenjieee's GitHub stats" />
+      </a>
+      <!-- GitHub Streak -->
+      <a href="http://www.github.com/Aenjieee">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aenjieee&theme=dracula&hide_border=true" alt="Aenjieee's GitHub streak" />
+      </a>
+      <!-- GitHub Languages -->
+      <a href="http://www.github.com/Aenjieee">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aenjieee&layout=compact&langs_count=16&theme=dracula" alt="Aenjieee's GitHub top languages" />
+      </a>
+    </div>
   </div>
-</div>
-</div>
-    
-</body>
-</html>
+
+  <!-- Tech Stack Section -->
+  <div class="container fadeIn" style="margin-top: 20px;">
+    <h3>🛠️ Tech Stack</h3>
+    <div class="tech-icons" align="center">
+      <a href="https://www.figma.com/"><img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" /></a>
+      <a href="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" /></a>
+      <a href="https://nextjs.org/"><img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" /></a>
+      <a href="https://wordpress.org/"><img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="WordPress" /></a>
+      <a href="https://developer.mozilla.org/en-US/docs
