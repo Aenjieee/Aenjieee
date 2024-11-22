@@ -102,29 +102,27 @@
   </div>
  <div class="container fadeIn" style="margin-top: 10px;">
    
- <!-- GitHub Stats with ReadMe Cards -->
+<!-- GitHub Stats with ReadMe Cards -->
 <div class="container fadeIn" style="margin-top: 10px; display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
 
-  <!-- GitHub Stats and GitHub Streak (Side by Side) -->
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <!-- GitHub Stats -->
-    <a href="http://www.github.com/Aenjieee">
-      <img src="https://github-readme-stats.vercel.app/api?username=Aenjieee&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Aenjieee's GitHub stats" />
-    </a>
+  <!-- GitHub Stats (Separate) -->
+  <a href="http://www.github.com/Aenjieee">
+    <img src="https://github-readme-stats.vercel.app/api?username=Aenjieee&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Aenjieee's GitHub stats" />
+  </a>
+
+  <!-- GitHub Streak and GitHub Languages (Side by Side) -->
+  <div style="display: flex; justify-content: center; gap: 10px; align-items: stretch;">
     <!-- GitHub Streak -->
     <a href="http://www.github.com/Aenjieee">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aenjieee&theme=dracula&hide_border=true" alt="Aenjieee's GitHub streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aenjieee&theme=dracula&hide_border=true" alt="Aenjieee's GitHub streak" style="height: 180px; object-fit: cover;" />
+    </a>
+    <!-- GitHub Languages -->
+    <a href="http://www.github.com/Aenjieee">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aenjieee&layout=compact&langs_count=16&theme=dracula" alt="Aenjieee's GitHub top languages" style="height: 180px; object-fit: cover;" />
     </a>
   </div>
-
-  <!-- GitHub Languages (Centered) -->
-  <a href="http://www.github.com/Aenjieee">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aenjieee&layout=compact&langs_count=16&theme=dracula" alt="Aenjieee's GitHub top languages" />
-  </a>
-  
 </div>
-
-
+</div>
     
 </body>
 </html>
