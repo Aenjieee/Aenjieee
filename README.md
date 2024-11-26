@@ -27,7 +27,7 @@
     <a href="https://www.facebook.com/aenjie.2002?mibextid=ZbWKwL">
       <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook logo" />
     </a>
-    <a href="(https://www.instagram.com/aenjiie.bnsto/profilecard/?igsh=YXJ1aWx1bW01YTlw)">
+    <a href="https://www.instagram.com/aenjiie.bnsto/">
       <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
     </a>
   </div>
