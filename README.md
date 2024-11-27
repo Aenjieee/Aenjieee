@@ -20,20 +20,6 @@
       I'm a passionate <strong>Graphic Designer</strong> and a <strong>Computer Science student</strong>. I create visually stunning designs and love coding too!
     </p>
   </div>
- <h3>📫 Get in Touch</h3>
-  <div align="left">
-    <a href="mailto:angelicabanastao@gmail.com">
-      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
-    </a>
-    <a href="https://www.facebook.com/aenjie.2002?mibextid=ZbWKwL">
-      <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook logo" />
-    </a>
-    <a href="https://www.instagram.com/aenjiie.bnsto/">
-      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
-    </a>
-  </div>
-</div>
-
   <!-- QA Section -->
   <div class="container fadeIn" style="background: linear-gradient(135deg, #fff, #f9f9f9); padding: 20px; border-radius: 10px; box-shadow: 0px 10px 20px rgba(0,0,0,0.1); margin-top: 20px;">
     <p>✅ <strong>Quality Assurance (QA)</strong>:<br> I have expertise in testing and quality assurance to ensure that software products meet the highest standards of quality and performance.</p>
@@ -101,3 +87,18 @@
       </a>
     </p>
   </div>
+
+  <h3>📫 Get in Touch</h3>
+  <div align="left">
+    <a href="mailto:angelicabanastao@gmail.com">
+      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
+    </a>
+    <a href="https://www.facebook.com/aenjie.2002?mibextid=ZbWKwL">
+      <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook logo" />
+    </a>
+    <a href="https://www.instagram.com/aenjiie.bnsto/">
+      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
+    </a>
+  </div>
+</div>
+
