@@ -9,9 +9,10 @@
   <div class="container fadeIn" style="background: linear-gradient(135deg, #f9f9f9, #f0f0f0); padding: 20px; border-radius: 10px; box-shadow: 0px 10px 20px rgba(0,0,0,0.1);">
     <div class="container fadeIn">
     <h2 class="slideIn" style="font-size: 28px;">
-     Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Waving hand" style="width: 30px; height: 30px; vertical-align: middle;" />
-      I'm Nothing
+     Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Waving hand" style="width: 30px; height: 30px; vertical-align: middle;" />
+      I'm Angelicz Villamor
     </h2>
+       <img align="right" alt="coding" width="450" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
    <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Aenjieee&icon=6&color=1" alt="visit count">
 </a>
