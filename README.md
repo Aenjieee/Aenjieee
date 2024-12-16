@@ -12,7 +12,7 @@
   <img src="https://visitcount.itsvg.in/api?id=Aenjieee&icon=6&color=1" alt="visit count">
     <h2 class="slideIn" style="font-size: 28px;">
      Konnichiwa! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Waving hand" style="width: 30px; height: 30px; vertical-align: middle;" />
-      I'm Angelicz Villamor, I'm still learning, but I'm getting there.
+      I'm Ma. Angelica Villamor, I'm still learning, but I'm getting there.
 </a>
     </h2>
        <img align="right" alt="coding" width="450" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
