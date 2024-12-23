@@ -11,7 +11,7 @@
        <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Aenjieee&icon=6&color=1" alt="visit count">
     <h2 class="slideIn" style="font-size: 28px;">
-     Konnichiwa! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Waving hand" style="width: 30px; height: 30px; vertical-align: middle;" />
+    Hello! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Waving hand" style="width: 30px; height: 30px; vertical-align: middle;" />
       I'm Ma. Angelica Villamor, I'm still learning, but I'm getting there.
 </a>
     </h2>
