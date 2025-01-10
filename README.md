@@ -5,12 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-  <!-- Introduction Section -->
-  <div class="container fadeIn" style="background: linear-gradient(135deg, #f9f9f9, #f0f0f0); padding: 20px; border-radius: 10px; box-shadow: 0px 10px 20px rgba(0,0,0,0.1);">
-    <div class="container fadeIn">
-       <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Aenjieee&icon=6&color=1" alt="visit count">
-    <h2 class="slideIn" style="font-size: 28px;">
     Hello! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Waving hand" style="width: 30px; height: 30px; vertical-align: middle;" />
       I'm Ma. Angelica Villamor, I'm still learning, but I'm getting there.
 </a>
