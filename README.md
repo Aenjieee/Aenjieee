@@ -5,11 +5,19 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    Hello! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Waving hand" style="width: 30px; height: 30px; vertical-align: middle;" />
-      I'm Ma. Angelica Villamor, I'm still learning, but I'm getting there.
-</a>
+    <h2>
+        Hello! 
+        <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" 
+             alt="Waving hand" 
+             style="width: 30px; height: 30px; vertical-align: middle;" /> 
+        I'm Ma. Angelica Villamor. I'm still learning, but I'm making progress every day!
     </h2>
-       <img align="right" alt="coding" width="450" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
+    <img align="right" 
+         alt="Coding" 
+         width="450" 
+         src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
+</body>
+</html>
     <p>
      I'm a passionate Graphic Designer 🎨 and a Computer Science student 💻. I create visually stunning designs 🌟 and love coding too! 👨‍💻✨
     </p>
