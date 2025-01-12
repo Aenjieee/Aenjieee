@@ -18,6 +18,9 @@
          src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
 </body>
 </html>
+    <p>  
+    I'm still learning, but I'm making progress every day!
+    </p>
     <p>
      I'm a passionate Graphic Designer 🎨 and a Computer Science student 💻. I create visually stunning designs 🌟 and love coding too! 👨‍💻✨
     </p>
