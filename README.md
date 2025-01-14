@@ -22,7 +22,7 @@
     I'm still learning, but I'm making progress every day!
     </p>
     <p>
-     I'm a passionate Graphic Designer 🎨 and a Computer Science student 💻. I create visually stunning designs 🌟 and love coding too! 👨‍💻✨
+     I'm a passionate Graphic Designer 🎨 and a Computer Science student 💻. I create visually stunning designs 🌟 and love coding too! ✨
     </p>
   </div>
 
