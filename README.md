@@ -46,10 +46,15 @@
       <!-- Instagram Link -->
       <a href="https://www.instagram.com/aenjiie.bnsto/">
         <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" alt="Instagram logo" />
-      </a>
+      </a> 
     </div>
   </div>
-
+ <!-- Random Dev Quote Section -->
+  <div class="container">
+    <h3 class="section-title">✍️ Random Dev Quote</h3>
+    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko" alt="Random Dev Quote" />
+  </div>
 </body>
 </html>
-
+</body>
+</html>
