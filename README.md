@@ -49,11 +49,12 @@
       </a> 
     </div>
   </div>
- <!-- Random Dev Quote Section -->
-  <div class="container">
-    <h3 class="section-title">✍️ Random Dev Quote</h3>
-    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko" alt="Random Dev Quote" />
-  </div>
+<!-- Random Dev Quote Section -->
+<div class="container">
+  <h3 class="section-title">✍️ Random Dev Quote</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko&random=<?=rand()?>" alt="Random Dev Quote" />
+</div>
+
 </body>
 </html>
 </body>
