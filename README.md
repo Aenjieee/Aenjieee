@@ -51,7 +51,7 @@
   </div>
 <!-- Random Dev Quote Section -->
 <div class="container">
-  <h3 class="section-title">✍️ Random Dev Quote</h3>
+  <h3 class="section-title">✍️ Dev Quote</h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&cachebust=1" alt="Random Dev Quote" />
 </div>
 
