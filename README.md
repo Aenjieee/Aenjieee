@@ -54,7 +54,7 @@
 <div class="section">
   <h3 class="section-title">✍️ Dev Quote</h3>
   <div class="quote-info">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&cachebust=1" alt="Random Dev Quote" style="width: 500px; height: auto;" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&cachebust=1" alt="Random Dev Quote" style="width: 400px; height: auto;" />
   </div>
 </div>
 </body>
