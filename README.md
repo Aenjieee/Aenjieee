@@ -50,14 +50,12 @@
       </a>
     </div>
   </div>
-  <!-- Random Dev Quote Section -->
-    <div class="section">
-      <h3 class="section-title">✍️ Dev Quote</h3>
-      <div class="quote-info">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&cachebust=1" alt="Random Dev Quote" />
-      </div>
-    </div>
+<!-- Random Dev Quote Section (Landscape Layout) -->
+<div class="section">
+  <h3 class="section-title">✍️ Dev Quote</h3>
+  <div class="quote-info">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&cachebust=1" alt="Random Dev Quote" style="width: 500px; height: auto;" />
   </div>
-
+</div>
 </body>
 </html>
