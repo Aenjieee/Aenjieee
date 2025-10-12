@@ -18,9 +18,9 @@
          src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
 </body>
 </html>
-     <p align="center">
-  <strong> I'm still learning, but I'm making progress every day!</strong>
-     </p>
+     <p align="center" style="color:#00BFFF; font-weight:bold;">
+✨ I'm still learning, but I'm making progress every day! ✨
+    </p>
      <p align="justify">
 A Computer Science degree holder and Web Developer based in Manila, currently working at a tech firm while freelancing as a Graphic Designer and Digital Marketing Specialist in Los Angeles. Passionate about creating engaging designs, building efficient web solutions, and continuously learning to stay ahead of industry trends.
 </p>
