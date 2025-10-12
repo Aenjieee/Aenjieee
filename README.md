@@ -19,11 +19,11 @@
 </body>
 </html>
     <p>  
-    I’m a Computer Science degree holder and Web Developer based in Manila. I work at a tech firm and freelance as a Graphic Designer and Digital Marketing Specialist in Los Angeles. I’m passionate about creating engaging designs, building efficient web solutions, and continuously learning to stay ahead of industry trends.
+    I'm still learning, but I'm making progress every day!✨
     </p>
-    <p>
-     I'm still learning, but I'm making progress every day! 💻
-    </p>
+     <p align="justify">
+I’m a Computer Science degree holder and Web Developer based in Manila. I work at a tech firm and freelance as a Graphic Designer and Digital Marketing Specialist in Los Angeles. I’m passionate about creating engaging designs, building efficient web solutions, and continuously learning to stay ahead of industry trends. 💻
+</p>
   </div>
 
 <!-- Tech Stack Section -->
