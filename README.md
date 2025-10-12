@@ -18,11 +18,11 @@
          src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
 </body>
 </html>
-    <p>  
-    I'm still learning, but I'm making progress every day!✨
-    </p>
+     <p align="center">
+  <strong> I'm still learning, but I'm making progress every day!</strong>
+     </p>
      <p align="justify">
-I’m a Computer Science degree holder and Web Developer based in Manila. I work at a tech firm and freelance as a Graphic Designer and Digital Marketing Specialist in Los Angeles. I’m passionate about creating engaging designs, building efficient web solutions, and continuously learning to stay ahead of industry trends. 💻
+A Computer Science degree holder and Web Developer based in Manila, currently working at a tech firm while freelancing as a Graphic Designer and Digital Marketing Specialist in Los Angeles. Passionate about creating engaging designs, building efficient web solutions, and continuously learning to stay ahead of industry trends.
 </p>
   </div>
 
