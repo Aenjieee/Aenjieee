@@ -5,13 +5,18 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h2>
-        Hello! 
-        <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" 
-             alt="Waving hand" 
-             style="width: 30px; height: 30px; vertical-align: middle;" /> 
-        I'm Ma. Angelica Villamor
-    </h2>
+    <div style="text-align: center;">
+  <h2>
+    Hello!
+    <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"
+         alt="Waving hand"
+         style="width: 30px; height: 30px; vertical-align: middle;" />
+    I'm Ma. Angelica Villamor
+      <p style="font-weight: bold; color: #00BFFF;">
+    ✨ I'm still learning, but I'm making progress every day! ✨
+  </p>
+  </h2>
+</div>
     <img align="right" 
          alt="Coding" 
          width="450" 
@@ -19,9 +24,6 @@
 </body>
 </html>
 </div>
-     <p>
- I'm still learning, but I'm making progress every day!✨
-    </p>
      <p align="justify">
 A Computer Science degree holder and Web Developer based in Manila, currently working at a tech firm while freelancing as a Graphic Designer and Digital Marketing Specialist in Los Angeles. Passionate about creating engaging designs, building efficient web solutions, and continuously learning to stay ahead of industry trends.
     </p>
