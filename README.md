@@ -22,7 +22,7 @@
 </html>
 </div>
      <p align="justify">
-A Computer Science degree holder and Web Developer based in Manila, working at a tech firm and freelancing as a Graphic Designer and Digital Marketing Specialist in Los Angeles. Passionate about design, building efficient web solutions, and continuously learning to stay ahead of industry trends.
+Computer Science degree holder and Web Developer based in Manila. Freelance Graphic Designer and Digital Marketing Specialist in Los Angeles, passionate about creating impactful designs, smart web solutions, and continuously learning to stay ahead of industry trends.
     </p>
   
 <!-- Tech Stack Section -->
