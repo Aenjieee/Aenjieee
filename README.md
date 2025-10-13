@@ -4,27 +4,38 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
-<body>
-    <div style="text-align: center;">
-  <h2>
-    Hello!
-    <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"
-         alt="Waving hand"
-         style="width: 30px; height: 30px; vertical-align: middle;" />
-    I'm Ma. Angelica Villamor
-  </h2>
-</div>
-    <img align="right" 
-         alt="Coding" 
-         width="450" 
-         src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
+<body style="font-family: Arial, sans-serif; margin: 40px;">
+
+  <div style="text-align: center; margin-bottom: 30px;">
+    <a href="https://angie-portfolio-4p2c.vercel.app" target="_blank" 
+       style="background-color: #007BFF; color: white; padding: 12px 24px; text-decoration: none; border-radius: 8px; font-weight: bold;">
+      🌐 View My Portfolio
+    </a>
+  </div>
+
+  <div style="text-align: center;">
+    <h2>
+      Hello!
+      <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"
+           alt="Waving hand"
+           style="width: 30px; height: 30px; vertical-align: middle;" />
+      I'm <strong>Ma. Angelica Villamor</strong>
+    </h2>
+  </div>
+
+  <img align="right" 
+       alt="Coding" 
+       width="450" 
+       src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"
+       style="border-radius: 10px; margin-left: 20px;" />
+
+  <p align="justify" style="font-size: 16px; line-height: 1.6;">
+    A Computer Science degree holder and Web Developer based in Manila. Freelance Graphic Designer and Digital Marketing Specialist in Los Angeles, passionate about creating impactful designs, smart web solutions, and continuously learning to stay ahead of industry trends.
+  </p>
+
 </body>
 </html>
-</div>
-     <p align="justify">
-A Computer Science degree holder and Web Developer based in Manila. Freelance Graphic Designer and Digital Marketing Specialist in Los Angeles, passionate about creating impactful designs, smart web solutions, and continuously learning to stay ahead of industry trends.
-    </p>
-  
+
 <!-- Tech Stack Section -->
  ### 🚀 Tech Stack
 
