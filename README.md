@@ -24,9 +24,7 @@
      <p align="justify">
 A Computer Science degree holder and Web Developer based in Manila, currently working at a tech firm while freelancing as a Graphic Designer and Digital Marketing Specialist in Los Angeles. Passionate about creating engaging designs, building efficient web solutions, and continuously learning to stay ahead of industry trends.
     </p>
-<p style="font-weight: bold; color: #00BFFF;">
-    I'm still learning, but I'm making progress every day!✨
-  </p>
+  
 <!-- Tech Stack Section -->
  ### 🚀 Tech Stack
 
