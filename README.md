@@ -27,7 +27,7 @@
  <img 
      align="right" 
      alt="Coding" 
-     width="600" 
+     width="500" 
      height="800" 
      src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"
      style="border-radius: 10px; margin-left: 20px; margin-bottom: 20px;" />
