@@ -24,13 +24,13 @@
   </div>
 
   <!-- GIF + Text Section -->
-  <div style="overflow: hidden; margin-bottom: 60px;">
-    <img 
-         align="right" 
-         alt="Coding" 
-         width="450" 
-         src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"
-         style="border-radius: 10px; margin-left: 20px; margin-bottom: 20px;" />
+ <img 
+     align="right" 
+     alt="Coding" 
+     width="450" 
+     height="600" 
+     src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"
+     style="border-radius: 10px; margin-left: 20px; margin-bottom: 20px;" />
     <p align="justify" style="font-size: 16px; line-height: 1.6;">
       A Computer Science degree holder and Web Developer based in Manila. Freelance Graphic Designer and Digital Marketing Specialist in Los Angeles, passionate about creating impactful designs, smart web solutions, and continuously learning to stay ahead of industry trends.
     </p>
