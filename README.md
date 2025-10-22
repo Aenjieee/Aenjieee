@@ -51,24 +51,5 @@
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&cachebust=1" alt="Random Dev Quote" style="width: 380px; height: auto;" />
     </div>
   </div>
-
-  <!-- Get in Touch Section -->
-  <div class="container fadeIn" style="flex: 1; margin-right: 20px;">
-    <h3 class="section-title">📫 Get in Touch</h3>
-    <div class="contact-icons">
-      <!-- Gmail Link -->
-      <a href="mailto:angelicabanastao@gmail.com">
-        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" alt="Gmail logo" />
-      </a>
-      <!-- Facebook Link -->
-      <a href="https://www.facebook.com/aenjie.2002?mibextid=ZbWKwL">
-        <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" alt="Facebook logo" />
-      </a>
-      <!-- Instagram Link -->
-      <a href="https://www.instagram.com/aenjiie.bnsto/">
-        <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" alt="Instagram logo" />
-      </a>
-    </div>
-  </div>
 </body>
 </html>
