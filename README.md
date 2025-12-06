@@ -7,7 +7,7 @@
 <body style="font-family: Arial, sans-serif; margin: 40px;">
 
   <div style="text-align: center; margin-bottom: 30px;">
-    <a href="https://angie-portfolio-4p2c.vercel.app" target="_blank" 
+    <a href="https://ma-angelica-v.vercel.app/" target="_blank" 
        style="background-color: #007BFF; color: white; padding: 12px 24px; text-decoration: none; border-radius: 8px; font-weight: bold;">
       🌐 View My Portfolio
     </a>
