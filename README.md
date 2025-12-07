@@ -1,8 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Hello!+I'm+Ma.+Angelica+Villamor+%F0%9F%91%8B" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=3ABFF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ma.+Angelica+Villamor" alt="Typing SVG" />
 
-### 💻 Computer Science Graduate | Web Developer | UI/UX & QA Specialist
+<h2 style="font-weight: bold; font-size: 24px; 
+           background-color: #3ABFF8; 
+           color: white; 
+           display: inline-block; 
+           padding: 10px 20px; 
+           border-radius: 8px; 
+           text-align: center;">
+  “Don’t wait for opportunity. Create it.”
+</h2>
 
 <a href="https://ma-angelica-v.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-007BFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
@@ -12,18 +20,17 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" style="border-radius: 10px;"/>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" style="border-radius: 10px; margin-left: 20px; margin-bottom: 20px;" />
 
-
-🎨 UI/UX Designer
-
-✨ Open for part-time WFH freelance
-
-💡 Always learning & exploring tech
+<p>👨‍💻 <strong>About Me</strong></p>
+<p>💼 Working as a Web Developer</p>
+<p>✨ Open for FREELANCE WFH PART-TIME</p>
+<p>🎓 Computer Science Graduate</p>
+<p>🎨 Passionate about creating impactful designs & smart web solutions</p>
+<p>💡 Always learning and staying ahead of industry trends</p>
 
 <br clear="right"/>
 
----
 
 ### 🛠️ Tech Stack
 
