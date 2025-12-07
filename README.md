@@ -69,7 +69,7 @@
 
 ---
 
-### 📊 GitHub Analytics
+<!--### 📊 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aenjieee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -78,9 +78,8 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aenjieee&theme=tokyonight" alt="GitHub Streak"/>
-</div>
+</div>-->
 
----
 
 ### 💭 Daily Inspiration
 
@@ -103,7 +102,7 @@
 
 <div align="center">
   
-### 💡 "Design with purpose, code with passion" 💡
+### "Design with purpose, code with passion" 
 
 <img src="https://komarev.com/ghpvc/?username=Aenjieee&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 
