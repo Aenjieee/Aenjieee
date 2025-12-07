@@ -23,9 +23,9 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" style="border-radius: 10px; margin-left: 20px; margin-bottom: 20px;" />
 
 <p>👨‍💻 <strong>About Me</strong></p>
+<p>🎓 Computer Science Graduate</p>
 <p>💼 Working as a Web Developer</p>
 <p>✨ Open for FREELANCE WFH PART-TIME</p>
-<p>🎓 Computer Science Graduate</p>
 <p>🎨 Passionate about creating impactful designs & smart web solutions</p>
 <p>💡 Always learning and staying ahead of industry trends</p>
 
