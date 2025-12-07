@@ -16,13 +16,15 @@
 
 ### 👨‍💻 About Me
 
-🌍 Based in **Manila, Philippines**  
-🎓 **Computer Science Graduate**  
-💼 Working as a **Web Developer**
-✨ Open for *WFH freelance projects (part-time)*
-🎨 Passionate about creating impactful designs & smart web solutions  
-🔍 Exploring the tech world
-💡 Always learning and staying ahead of industry trends  
+🌍 Manila, Philippines
+
+🎓 Computer Science Graduate
+
+💼 Web Developer | 🎨 Designer
+
+✨ Open for part-time WFH freelance
+
+💡 Always learning & exploring tech
 
 <br clear="right"/>
 
@@ -92,7 +94,6 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ma-angelica-v-banastao-615367373)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelicabanastao@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aenjieee)
 
 </div>
 
