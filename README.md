@@ -16,10 +16,6 @@
 
 ### 👨‍💻 About Me
 
-🎓 Computer Science Graduate
-
-💼 Web Developer 
-
 🎨 Designer
 
 ✨ Open for part-time WFH freelance
