@@ -1,55 +1,109 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body style="font-family: Arial, sans-serif; margin: 40px;">
+<div align="center">
 
-  <div style="text-align: center; margin-bottom: 30px;">
-    <a href="https://ma-angelica-v.vercel.app/" target="_blank" 
-       style="background-color: #007BFF; color: white; padding: 12px 24px; text-decoration: none; border-radius: 8px; font-weight: bold;">
-      🌐 View My Portfolio
-    </a>
-  </div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Hello!+I'm+Ma.+Angelica+Villamor+%F0%9F%91%8B" alt="Typing SVG" />
 
-  <div style="text-align: center;">
-    <h2>
-       Hello!
-      <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"
-           alt="Waving hand"
-           style="width: 30px; height: 30px; vertical-align: middle;" />
-      I'm <strong>Ma. Angelica Villamor</strong>
-    </h2>
-  </div>
+### 💻 Computer Science Graduate | Web Developer | UI/UX & QA Specialist
 
-  <!-- GIF + Text Section -->
- <img 
-     align="right" 
-     alt="Coding" 
-     width="500" 
-     height="900" 
-     src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"
-     style="border-radius: 10px; margin-left: 20px; margin-bottom: 20px;" />
-    <p align="justify" style="font-size: 16px; line-height: 1.6;">
-     A Computer Science degree holder and Web Developer based in Manila, also working as a Freelance Graphic Designer. Passionate about creating impactful designs, smart web solutions, and always learning to stay ahead of industry trends.
-    </p>
-  </div>
+<a href="https://ma-angelica-v.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-007BFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
 
-  <!-- Tech Stack Section -->
-  <div style="clear: both; margin-top: 50px;">
-    <h3 style="font-size: 22px;">🚀 Tech Stack</h3>
-    <p style="font-size: 15px; line-height: 1.8;">
+</div>
 
-![C++](https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white) <img src="https://img.shields.io/badge/CSS-1572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS">
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=flat&logo=mysql&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%23007ACC.svg?style=flat&logo=visual%20studio&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white) ![JAVA](https://img.shields.io/badge/java-%23f8bc2c.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777777.svg?style=flat&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-%238A00FF.svg?style=flat&logo=Adobe%20XD&logoColor=white) ![Flowlab](https://img.shields.io/badge/Flowlab-%23000000.svg?style=flat&logo=flowlab&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=flat&logo=canva&logoColor=white) ![Cypress](https://img.shields.io/badge/cypress-17202C?style=flat&logo=cypress&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F1502F.svg?style=flat&logo=git&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)![Jira Software](https://img.shields.io/badge/Jira%20Software-0052CC.svg?style=flat&logo=Jira&logoColor=white)![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat&logo=Adobe%20Creative%20Cloud&logoColor=white)
+---
 
-  <!-- Random Dev Quote Section (Landscape Layout) -->
-  <div class="section" style="flex: 1;">
-    <h3 class="section-title">✍️ Dev Quote</h3>
-    <div class="quote-info">
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&cachebust=1" alt="Random Dev Quote" style="width: 380px; height: auto;" />
-    </div>
-  </div>
-</body>
-</html>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" style="border-radius: 10px;"/>
+
+### 👨‍💻 About Me
+
+🌍 Based in **Manila, Philippines**  
+🎓 **Computer Science Graduate**  
+💼 Working as a **Web Developer**
+✨ Open for *WFH freelance projects (part-time)*
+🎨 Passionate about creating impactful designs & smart web solutions  
+🔍 Exploring the tech world
+💡 Always learning and staying ahead of industry trends  
+
+<br clear="right"/>
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+#### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+#### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+#### Design Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=FF61F6)
+![Adobe Creative Cloud](https://img.shields.io/badge/Adobe_CC-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+
+#### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aenjieee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aenjieee&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aenjieee&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+---
+
+### 💭 Daily Inspiration
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+---
+
+### 🤝 Let's Connect
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ma-angelica-v-banastao-615367373)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelicabanastao@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aenjieee)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💡 "Design with purpose, code with passion" 💡
+
+<img src="https://komarev.com/ghpvc/?username=Aenjieee&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+
+⭐️ From [Ma. Angelica Villamor](https://github.com/Aenjieee)
+
+</div>
