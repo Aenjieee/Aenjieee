@@ -12,11 +12,23 @@
   “Don’t wait for opportunity. Create it.”
 </h2>
 
-<a href="https://ma-angelica-v.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-007BFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
+<div align="center" style="margin-bottom: 30px;">
+  <!-- Portfolio Button -->
+  <a href="https://ma-angelica-v.vercel.app/" target="_blank" 
+     style="background-color: #007BFF; color: white; padding: 12px 24px; text-decoration: none; border-radius: 8px; font-weight: bold; display: inline-block;">
+    🌐 View My Portfolio
+  </a>
 
+  <!-- Space between button and profile views -->
+  <span style="display: inline-block; width: 20px;"></span>
+
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=your-username&color=blue" alt="Profile Views" style="width:150px; display: inline-block;">
 </div>
+
+
+
+
 
 ---
 
@@ -67,9 +79,4 @@
 <div align="center">
   
 ### "Design with purpose, code with passion" 
-
-<img src="https://komarev.com/ghpvc/?username=Aenjieee&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-
-⭐️ From [Ma. Angelica Villamor](https://github.com/Aenjieee)
-
 </div>
