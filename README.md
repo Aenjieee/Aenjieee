@@ -26,8 +26,9 @@
 <p>🎓 Computer Science Graduate</p>
 <p>💼 Working as a Web Developer</p>
 <p>✨ Open for FREELANCE WFH PART-TIME</p>
-<p>🎨 Passionate about creating impactful designs & smart web solutions</p>
 <p>💡 Always learning and staying ahead of industry trends</p>
+<p>🎨 Passionate about creating impactful designs & smart web solutions</p>
+
 
 <br clear="right"/>
 
