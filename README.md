@@ -16,11 +16,11 @@
 
 ### 👨‍💻 About Me
 
-🌍 Manila, Philippines
-
 🎓 Computer Science Graduate
 
-💼 Web Developer | 🎨 Designer
+💼 Web Developer 
+
+🎨 Designer
 
 ✨ Open for part-time WFH freelance
 
