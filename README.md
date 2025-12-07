@@ -26,7 +26,7 @@
       <p>👨‍💻 <strong>About Me</strong></p>
       <p>🎓 Computer Science Graduate</p>
       <p>💼 Working as a Web Developer</p>
-      <p>✨ Open for FREELANCE WFH PART-TIME</p>
+      <p>✨ Open for Freelance WFH PART-TIME</p>
       <p>💡 Always learning and staying ahead of industry trends</p>
       <p>🎨 Passionate about creating impactful designs & smart web solutions</p>
     </td>
@@ -60,17 +60,6 @@
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
----
-
-### 🤝 Let's Connect
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ma-angelica-v-banastao-615367373)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelicabanastao@gmail.com)
-
 </div>
 
 ---
