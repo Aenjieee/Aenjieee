@@ -65,7 +65,6 @@
 <div align="center">
 
 ### 🛠️ Tech Stack
-<br>
 <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
 <img src="https://img.shields.io/badge/CSS-1572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS">
 <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL">
