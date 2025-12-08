@@ -76,15 +76,16 @@
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
 <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python">
 <img src="https://img.shields.io/badge/php-%23777777.svg?style=flat&logo=php&logoColor=white" alt="PHP">
+<br>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/Arduino-00979D.svg?style=flat&logo=Arduino&logoColor=white" alt="Arduino">
 <img src="https://img.shields.io/badge/Adobe%20XD-%238A00FF.svg?style=flat&logo=Adobe%20XD&logoColor=white" alt="Adobe XD">
-<br>
 <img src="https://img.shields.io/badge/Flowlab-%23000000.svg?style=flat&logo=flowlab&logoColor=white" alt="Flowlab">
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="Figma">
 <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white" alt="WordPress">
 <img src="https://img.shields.io/badge/canva-%2300C4CC.svg?style=flat&logo=canva&logoColor=white" alt="Canva">
 <img src="https://img.shields.io/badge/cypress-17202C?style=flat&logo=cypress&logoColor=white" alt="Cypress">
+<br>
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub">
 <img src="https://img.shields.io/badge/git-%23F1502F.svg?style=flat&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="NodeJS">
