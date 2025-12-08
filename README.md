@@ -1,52 +1,58 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=3ABFF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ma.+Angelica+Villamor" alt="Typing SVG" />
+  <!-- Typing Intro -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=2500&pause=1800&color=3ABFF8&center=true&vCenter=true&width=700&lines=Hello!+I'm+Ma.+Angelica+Villamor;Web+Developer+%7C+UI%2FUX+Designer;Creative.+Curious.+Always+Growing." alt="Typing SVG" />
 
-<h2 style="font-weight: bold; font-size: 24px; 
-           background-color: #3ABFF8; 
-           color: white; 
-           display: inline-block; 
-           padding: 10px 20px; 
-           border-radius: 8px; 
-           text-align: center;">
-  “Don’t wait for opportunity. Create it.”
-</h2>
+  <!-- Quote Badge -->
+  <h2 style="font-weight: bold;
+             font-size: 22px;
+             background: linear-gradient(90deg, #3ABFF8, #007BFF);
+             color: white;
+             padding: 12px 28px;
+             border-radius: 10px;
+             margin-top: 15px;
+             display: inline-block;">
+    “Don’t wait for opportunity. Create your momentum.”
+  </h2>
 
-<div align="center" style="margin-bottom: 30px;">
-  <!-- Portfolio Button -->
-  <a href="https://ma-angelica-v.vercel.app/" target="_blank" 
-     style="background-color: #007BFF; color: white; padding: 12px 24px; text-decoration: none; border-radius: 8px; font-weight: bold; display: inline-block;">
-    🌐 View My Portfolio
+  <br><br>
+
+  <!-- Buttons -->
+  <a href="https://ma-angelica-v.vercel.app/" target="_blank"
+     style="background-color: #007BFF; 
+            color: white; 
+            padding: 12px 28px; 
+            margin-right: 12px;
+            text-decoration: none; 
+            border-radius: 10px; 
+            font-weight: 600;">
+    🌐 Visit My Portfolio
   </a>
 
-  <!-- Space between button and profile views -->
-  <span style="display: inline-block; width: 20px;"></span>
+ <img src="https://komarev.com/ghpvc/?username=Aenjieee&color=blue&style=for-the-badge" />
 
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=your-username&color=blue" alt="Profile Views" style="width:150px; display: inline-block;">
+
 </div>
-
-
-
-
 
 ---
 
 <table>
   <tr>
-    <td>
-      <p>👨‍💻 <strong>About Me</strong></p>
-      <p>🎓 Computer Science Graduate</p>
-      <p>💼 Working as a Web Developer</p>
-      <p>✨ Open for Freelance WFH PART-TIME</p>
-      <p>💡 Always learning and staying ahead of industry trends</p>
-      <p>🎨 Passionate about creating impactful designs & smart web solutions</p>
+    <td style="width: 55%; padding-right: 20px;">
+           <p style="font-size: 22px; font-weight: bold;">👨‍💻 About Me</p>
+          <div style="border: 2px solid #3ABFF8; padding: 12px 16px; border-radius: 10px; max-width: 300px; background: rgba(58,191,248,0.05);">
+           <p style="margin: 6px 0;">🎓 Computer Science Graduate | 💼 Web Developer</p>
+           <p style="margin: 6px 0;">✨ Open for Freelance (WFH • Part-Time)</p>
+           <p style="margin: 6px 0;">🚀 Epistemophile • Technophile • Aesthetophile</p>
+</div>
     </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="300" />
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" 
+           width="320" />
     </td>
   </tr>
 </table>
+
 
 ### 🛠️ Tech Stack
 ![C++](https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white) <img src="https://img.shields.io/badge/CSS-1572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS">
