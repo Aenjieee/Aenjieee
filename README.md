@@ -78,8 +78,8 @@
 <img src="https://img.shields.io/badge/php-%23777777.svg?style=flat&logo=php&logoColor=white" alt="PHP">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/Arduino-00979D.svg?style=flat&logo=Arduino&logoColor=white" alt="Arduino">
-<br>
 <img src="https://img.shields.io/badge/Adobe%20XD-%238A00FF.svg?style=flat&logo=Adobe%20XD&logoColor=white" alt="Adobe XD">
+<br>
 <img src="https://img.shields.io/badge/Flowlab-%23000000.svg?style=flat&logo=flowlab&logoColor=white" alt="Flowlab">
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="Figma">
 <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white" alt="WordPress">
