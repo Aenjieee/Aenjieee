@@ -15,7 +15,6 @@
     “Don’t wait for opportunity. Create your momentum.”
   </h2>
 
-  <br><br>
 
   <!-- Buttons -->
   <a href="https://ma-angelica-v.vercel.app/" target="_blank"
