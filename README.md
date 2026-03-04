@@ -65,12 +65,9 @@
 <div align="center">
 
 ### 🛠️ Tech Stack
-<img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
 <img src="https://img.shields.io/badge/CSS-1572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS">
 <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL">
 <img src="https://img.shields.io/badge/Visual%20Studio-%23007ACC.svg?style=flat&logo=visual%20studio&logoColor=white" alt="Visual Studio">
-<img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code">
-<img src="https://img.shields.io/badge/java-%23f8bc2c.svg?style=flat&logo=java&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
 <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python">
 <img src="https://img.shields.io/badge/php-%23777777.svg?style=flat&logo=php&logoColor=white" alt="PHP">
