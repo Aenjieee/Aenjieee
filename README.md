@@ -80,7 +80,6 @@
 <img src="https://img.shields.io/badge/canva-%2300C4CC.svg?style=flat&logo=canva&logoColor=white" alt="Canva">
 <img src="https://img.shields.io/badge/cypress-17202C?style=flat&logo=cypress&logoColor=white" alt="Cypress">
 <br>
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub">
 <img src="https://img.shields.io/badge/git-%23F1502F.svg?style=flat&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="NodeJS">
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React">
